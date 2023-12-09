@@ -401,3 +401,5 @@ FodyWeavers.xsd
 imgui/
 Dependencies/
 opengl.session
+x64/
+Release/
